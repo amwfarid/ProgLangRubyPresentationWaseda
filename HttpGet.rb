@@ -30,3 +30,5 @@ r = ReviewBot.new
 rating = 0 #Insert your rating here
 comment = '' #Insert your comment here
 r.send(rating,comment)
+
+# You can view results here -> https://docs.google.com/spreadsheets/d/12psguP4slrUK1BW-PXSPZa4sYEOxksVDrZudSXjqLw8/edit?usp=sharing
