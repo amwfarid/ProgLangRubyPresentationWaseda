@@ -27,7 +27,7 @@ class ReviewBot
 end
 
 r = ReviewBot.new
-rating = 0 #Insert your rating here
+rating = 1 #Insert your rating here
 comment = '' #Insert your comment here
 r.send(rating,comment)
 
